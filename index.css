@@ -6,7 +6,7 @@
 .wrapper{
     width: 100%;
     height: 100vh;
-    background-color: orange;
+    background-color: black;
     float: left;
     font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -227,9 +227,9 @@
 }
 .ad{
     font-size: 14px;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
     border-bottom: 0.5px solid #fff;
-    margin-top: 15px; 
+    margin-top: 10px; 
 }
 .ad i{
     color: #59B359;
